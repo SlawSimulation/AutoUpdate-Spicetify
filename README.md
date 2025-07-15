@@ -4,7 +4,7 @@ Automatically keep [Spicetify](https://github.com/spicetify/spicetify-cli) up to
 No more opening a terminal to type `spicetify update` when this script checks for updates silently in the background.
 
 
-<H2>Installation</H2>
+## Installation
 
   Download the [AutoUpdate‑Spicetify.ps1](https://github.com/SlawSimulation/AutoUpdate-Spicetify/blob/main/Scripts/AutoUpdate-Spicetify.ps1) file and place it in this folder on your C:\ drive:
   
@@ -50,10 +50,14 @@ No more opening a terminal to type `spicetify update` when this script checks fo
   ```
 
 
+## Deleting Scheduled Tasks:
+
+  If you need to delete a scheduled task for whatever reason, open up the **Task Scheduler** program on Windows and look for the Program you want to delete or stop running.
+
 
 ## Contributing
 
-If you would like to add other update scripts—for example, ones that run for only one year or update less frequently to give users more options, please request contributor access. Once accepted feel free to add the files to the repository.
+  If you would like to add other update scripts—for example, ones that run for only one year or update less frequently to give users more options, please request contributor access. Once accepted feel free to add the files to the repository.
 
 ## License
 
